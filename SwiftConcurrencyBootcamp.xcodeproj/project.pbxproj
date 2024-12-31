@@ -13,6 +13,7 @@
 		B58B33D92D23447E00ADB39C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B58B33D82D23447E00ADB39C /* Preview Assets.xcassets */; };
 		B58B33E02D2344E600ADB39C /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33DF2D2344E600ADB39C /* DoCatchTryThrowsBootcamp.swift */; };
 		B58B33E22D234A4D00ADB39C /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33E12D234A4D00ADB39C /* DownloadImageAsync.swift */; };
+		B58B33E42D24073600ADB39C /* AsyncAwaitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33E32D24073600ADB39C /* AsyncAwaitBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		B58B33D82D23447E00ADB39C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B58B33DF2D2344E600ADB39C /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
 		B58B33E12D234A4D00ADB39C /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
+		B58B33E32D24073600ADB39C /* AsyncAwaitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				B58B33D12D23447D00ADB39C /* SwiftConcurrencyBootcampApp.swift */,
 				B58B33D32D23447D00ADB39C /* ContentView.swift */,
 				B58B33DF2D2344E600ADB39C /* DoCatchTryThrowsBootcamp.swift */,
+				B58B33E32D24073600ADB39C /* AsyncAwaitBootcamp.swift */,
 				B58B33D52D23447E00ADB39C /* Assets.xcassets */,
 				B58B33D72D23447E00ADB39C /* Preview Content */,
 				B58B33E12D234A4D00ADB39C /* DownloadImageAsync.swift */,
@@ -146,6 +149,7 @@
 				B58B33E22D234A4D00ADB39C /* DownloadImageAsync.swift in Sources */,
 				B58B33E02D2344E600ADB39C /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				B58B33D42D23447D00ADB39C /* ContentView.swift in Sources */,
+				B58B33E42D24073600ADB39C /* AsyncAwaitBootcamp.swift in Sources */,
 				B58B33D22D23447D00ADB39C /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
