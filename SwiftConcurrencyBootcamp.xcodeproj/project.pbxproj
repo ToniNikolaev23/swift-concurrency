@@ -25,6 +25,7 @@
 		B58B33F62D27BADA00ADB39C /* AsyncPublisherBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33F52D27BADA00ADB39C /* AsyncPublisherBootcamp.swift */; };
 		B58B33F82D27C05800ADB39C /* StrongSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33F72D27C05800ADB39C /* StrongSelfBootcamp.swift */; };
 		B58B33FA2D27C4A100ADB39C /* MVVMBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33F92D27C4A100ADB39C /* MVVMBootcamp.swift */; };
+		B58B33FC2D27C6FB00ADB39C /* RefreshableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33FB2D27C6FB00ADB39C /* RefreshableBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		B58B33F52D27BADA00ADB39C /* AsyncPublisherBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherBootcamp.swift; sourceTree = "<group>"; };
 		B58B33F72D27C05800ADB39C /* StrongSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongSelfBootcamp.swift; sourceTree = "<group>"; };
 		B58B33F92D27C4A100ADB39C /* MVVMBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMBootcamp.swift; sourceTree = "<group>"; };
+		B58B33FB2D27C6FB00ADB39C /* RefreshableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshableBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				B58B33F72D27C05800ADB39C /* StrongSelfBootcamp.swift */,
 				B58B33EB2D25E30900ADB39C /* CheckedContinuationBootcamp.swift */,
 				B58B33F92D27C4A100ADB39C /* MVVMBootcamp.swift */,
+				B58B33FB2D27C6FB00ADB39C /* RefreshableBootcamp.swift */,
 				B58B33ED2D26643400ADB39C /* StructClassActorBootcamp.swift */,
 				B58B33E32D24073600ADB39C /* AsyncAwaitBootcamp.swift */,
 				B58B33D52D23447E00ADB39C /* Assets.xcassets */,
@@ -185,6 +188,7 @@
 				B58B33F42D27B74600ADB39C /* SendableBootcamp.swift in Sources */,
 				B58B33F02D2720B900ADB39C /* ActorsBootcamp.swift in Sources */,
 				B58B33EC2D25E30900ADB39C /* CheckedContinuationBootcamp.swift in Sources */,
+				B58B33FC2D27C6FB00ADB39C /* RefreshableBootcamp.swift in Sources */,
 				B58B33EE2D26643400ADB39C /* StructClassActorBootcamp.swift in Sources */,
 				B58B33E62D24163600ADB39C /* TaskBootcamp.swift in Sources */,
 				B58B33FA2D27C4A100ADB39C /* MVVMBootcamp.swift in Sources */,
